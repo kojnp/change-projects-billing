@@ -14,8 +14,8 @@
 
 ### Second, check that you have the appropriate IAM rights by attaching 1 single project:
 
-2. `export $NEW_BILLING_ACC_ID="yyy-yyy-yyy-yyy"`
-    1. `export $project="test-project-id-that-you-want-to-use"`
+2. `export NEW_BILLING_ACC_ID="yyy-yyy-yyy-yyy"`
+    1. `export project="test-project-id-that-you-want-to-use"`
     2. copy line 24 and execute by itself * in the command line * (so you don't run the script)
 
 
